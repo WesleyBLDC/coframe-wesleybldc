@@ -1,0 +1,1809 @@
+[
+  {
+    "id": "samsung-qn90c-43",
+    "brand": "Samsung",
+    "model": "QN90C",
+    "name": "Samsung 43\" QN90C Neo QLED 4K TV",
+    "price": 899,
+    "size": 43,
+    "displayType": "Neo QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Tizen",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.6,
+    "reviewCount": 742,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 18,
+    "highlights": [
+      "Quantum Matrix Technology with Neo Quantum Processor 4K",
+      "Anti-reflection coating ideal for bright offices and living rooms",
+      "4x HDMI 2.1 ports for console gaming and professional monitors",
+      "Object Tracking Sound for audio that follows on-screen movement"
+    ],
+    "reviews": [
+      {
+        "author": "OfficeSetup_Dan",
+        "rating": 5,
+        "text": "Perfect size for a conference room. Anti-glare works great under fluorescent lights.",
+        "date": "2024-02-10"
+      },
+      {
+        "author": "TechLead_Priya",
+        "rating": 4,
+        "text": "Crisp picture, easy setup. Tizen interface is a bit cluttered but manageable.",
+        "date": "2024-03-01"
+      },
+      {
+        "author": "HomeUser_Wei",
+        "rating": 5,
+        "text": "Colors pop and blacks are deep for an LED. Very happy with the value at this size.",
+        "date": "2024-04-15"
+      }
+    ]
+  },
+  {
+    "id": "samsung-qn90c-55",
+    "brand": "Samsung",
+    "model": "QN90C",
+    "name": "Samsung 55\" QN90C Neo QLED 4K TV",
+    "price": 999,
+    "size": 55,
+    "displayType": "Neo QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Tizen",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.6,
+    "reviewCount": 1284,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 31,
+    "highlights": [
+      "Quantum Matrix Technology with precise local dimming",
+      "Motion Xcelerator Turbo+ for ultra-smooth 120Hz gaming and sports",
+      "Anti-reflection screen minimises glare in sunlit rooms",
+      "Samsung Gaming Hub — stream console games without a console"
+    ],
+    "reviews": [
+      {
+        "author": "GamingSetup_Alex",
+        "rating": 5,
+        "text": "120Hz VRR is genuinely silky. Best TV I have owned for gaming.",
+        "date": "2024-01-20"
+      },
+      {
+        "author": "MovieNight_Sara",
+        "rating": 4,
+        "text": "Very bright and punchy. OLED blacks are still better but this gets close in a bright room.",
+        "date": "2024-02-14"
+      },
+      {
+        "author": "ValueHunter_Tom",
+        "rating": 5,
+        "text": "Bought for the home office. Anti-glare coating is the real deal — zero reflections.",
+        "date": "2024-03-22"
+      }
+    ]
+  },
+  {
+    "id": "samsung-qn90c-65",
+    "brand": "Samsung",
+    "model": "QN90C",
+    "name": "Samsung 65\" QN90C Neo QLED 4K TV",
+    "price": 1299,
+    "size": 65,
+    "displayType": "Neo QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Tizen",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.7,
+    "reviewCount": 1847,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 23,
+    "highlights": [
+      "Best-in-class brightness for bright living rooms and open-plan offices",
+      "4x HDMI 2.1 — connect PS5, Xbox, and a soundbar simultaneously",
+      "Quantum Matrix Technology for precise zone dimming",
+      "AI-upscaling turns HD content into near-4K quality"
+    ],
+    "reviews": [
+      {
+        "author": "TechReviewer42",
+        "rating": 5,
+        "text": "Stunning brightness and colour. The anti-glare coating is genuinely impressive.",
+        "date": "2024-03-15"
+      },
+      {
+        "author": "HomeTheater_Fan",
+        "rating": 4,
+        "text": "Excellent picture. OLED blacks are better but this gets bright enough to compensate.",
+        "date": "2024-02-28"
+      },
+      {
+        "author": "GamingSetup_Pro",
+        "rating": 5,
+        "text": "120Hz with VRR is silky smooth. Input lag is virtually unnoticeable.",
+        "date": "2024-04-01"
+      }
+    ]
+  },
+  {
+    "id": "samsung-qn90c-75",
+    "brand": "Samsung",
+    "model": "QN90C",
+    "name": "Samsung 75\" QN90C Neo QLED 4K TV",
+    "price": 1799,
+    "size": 75,
+    "displayType": "Neo QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Tizen",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.6,
+    "reviewCount": 934,
+    "inStock": true,
+    "deliveryDays": 3,
+    "quantityAvailable": 9,
+    "highlights": [
+      "Massive 75\" screen with flagship Neo QLED brightness and local dimming",
+      "Ideal for large living rooms, home theatres, and boardrooms",
+      "Dolby Atmos and Object Tracking Sound+ for immersive audio",
+      "Samsung SmartThings integration for whole-home control"
+    ],
+    "reviews": [
+      {
+        "author": "LargeRoom_Owner",
+        "rating": 5,
+        "text": "Fills the wall perfectly. Incredibly bright even with windows behind the sofa.",
+        "date": "2024-01-05"
+      },
+      {
+        "author": "BoardroomAV",
+        "rating": 4,
+        "text": "Great for presentations. Anti-glare handles conference lighting well.",
+        "date": "2024-03-18"
+      },
+      {
+        "author": "SportsFan_Mike",
+        "rating": 5,
+        "text": "Sports look amazing on this. Motion is butter-smooth at 120Hz.",
+        "date": "2024-04-20"
+      }
+    ]
+  },
+  {
+    "id": "samsung-s90c-55",
+    "brand": "Samsung",
+    "model": "S90C",
+    "name": "Samsung 55\" S90C QD-OLED 4K TV",
+    "price": 1299,
+    "size": 55,
+    "displayType": "QD-OLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "HDR10+",
+      "Dolby Vision",
+      "HLG"
+    ],
+    "smartPlatform": "Tizen",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.7,
+    "reviewCount": 1103,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 14,
+    "highlights": [
+      "Quantum Dot + OLED panel: near-perfect blacks with vibrant saturated colour",
+      "Dolby Vision, HDR10+, and HLG — compatible with every HDR format",
+      "0.1ms response time — the lowest input lag of any Samsung TV",
+      "Slim, near-bezel-less design for wall-mounting"
+    ],
+    "reviews": [
+      {
+        "author": "OLED_Convert",
+        "rating": 5,
+        "text": "Finally an OLED with Samsung colours. Best of both worlds.",
+        "date": "2024-02-02"
+      },
+      {
+        "author": "ColorGrader_Lea",
+        "rating": 5,
+        "text": "Colour accuracy is exceptional. Using it as a reference monitor alongside my work display.",
+        "date": "2024-03-10"
+      },
+      {
+        "author": "Gamer_Nico",
+        "rating": 4,
+        "text": "Incredible for gaming. Slight concern about burn-in with static HUDs but no issues yet after 6 months.",
+        "date": "2024-04-08"
+      }
+    ]
+  },
+  {
+    "id": "samsung-s90c-65",
+    "brand": "Samsung",
+    "model": "S90C",
+    "name": "Samsung 65\" S90C QD-OLED 4K TV",
+    "price": 1799,
+    "size": 65,
+    "displayType": "QD-OLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "HDR10+",
+      "Dolby Vision",
+      "HLG"
+    ],
+    "smartPlatform": "Tizen",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.8,
+    "reviewCount": 876,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 7,
+    "highlights": [
+      "65\" QD-OLED with infinite contrast and Samsung's Quantum Dot colour volume",
+      "Neural Quantum Processor 4K with AI upscaling and scene detection",
+      "Laser Slim design — as thin as 1.5\" from the wall",
+      "Ideal for dark home theatres and dedicated screening rooms"
+    ],
+    "reviews": [
+      {
+        "author": "CinephileMax",
+        "rating": 5,
+        "text": "Best TV I have ever owned. Movies look like they are being projected, not displayed.",
+        "date": "2024-01-28"
+      },
+      {
+        "author": "ApartmentDweller",
+        "rating": 4,
+        "text": "Absolutely gorgeous picture. Wall-mount install was easy thanks to the slim profile.",
+        "date": "2024-03-05"
+      },
+      {
+        "author": "TechBlogger_Jin",
+        "rating": 5,
+        "text": "QD-OLED raises the bar. This beats my old OLED on colour volume significantly.",
+        "date": "2024-04-12"
+      }
+    ]
+  },
+  {
+    "id": "samsung-q60c-55",
+    "brand": "Samsung",
+    "model": "Q60C",
+    "name": "Samsung 55\" Q60C QLED 4K TV",
+    "price": 549,
+    "size": 55,
+    "displayType": "QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Tizen",
+    "ports": {
+      "hdmi": 3,
+      "usb": 1
+    },
+    "rating": 4.3,
+    "reviewCount": 3201,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 52,
+    "highlights": [
+      "Quantum Dot technology for wider colour range than standard LED",
+      "Auto Game Mode detects console and switches to low-latency mode automatically",
+      "AirSlim design — clean look for wall mounting in living rooms or bedrooms",
+      "Reliable Samsung brand with 3-year manufacturer warranty"
+    ],
+    "reviews": [
+      {
+        "author": "Budget_Buyer_Karl",
+        "rating": 4,
+        "text": "Great value. Colours are noticeably better than my old LED TV.",
+        "date": "2024-01-12"
+      },
+      {
+        "author": "WFH_Setup",
+        "rating": 4,
+        "text": "Using it as a monitor extension in the home office. Tizen interface is responsive.",
+        "date": "2024-02-20"
+      },
+      {
+        "author": "GiftBuyer",
+        "rating": 5,
+        "text": "Bought this for my parents. Easy setup and they love it — zero complaints.",
+        "date": "2024-03-30"
+      }
+    ]
+  },
+  {
+    "id": "samsung-q60c-65",
+    "brand": "Samsung",
+    "model": "Q60C",
+    "name": "Samsung 65\" Q60C QLED 4K TV",
+    "price": 699,
+    "size": 65,
+    "displayType": "QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Tizen",
+    "ports": {
+      "hdmi": 3,
+      "usb": 1
+    },
+    "rating": 4.3,
+    "reviewCount": 2874,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 44,
+    "highlights": [
+      "65\" Quantum Dot display at an accessible price point",
+      "Reliable Samsung hardware — trusted brand for office deployments",
+      "Dual LED backlighting for warmer or cooler white balance control",
+      "Built-in Alexa and Bixby for hands-free control"
+    ],
+    "reviews": [
+      {
+        "author": "OfficeManager_Beth",
+        "rating": 4,
+        "text": "Bought three for our small conference rooms. All working flawlessly after 6 months.",
+        "date": "2024-02-08"
+      },
+      {
+        "author": "LivingRoom_Upgrade",
+        "rating": 4,
+        "text": "Significant upgrade from a 2018 Sony LED. Colours are much more vibrant.",
+        "date": "2024-03-14"
+      },
+      {
+        "author": "Reviewer_Ahmed",
+        "rating": 3,
+        "text": "60Hz refresh rate is noticeable during fast motion. Fine for everyday TV, not for sports.",
+        "date": "2024-04-02"
+      }
+    ]
+  },
+  {
+    "id": "lg-c3-oled-55",
+    "brand": "LG",
+    "model": "C3 OLED evo",
+    "name": "LG 55\" C3 OLED evo 4K TV",
+    "price": 1099,
+    "size": 55,
+    "displayType": "OLED evo",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision IQ",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "webOS 23",
+    "ports": {
+      "hdmi": 4,
+      "usb": 3
+    },
+    "rating": 4.8,
+    "reviewCount": 2341,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 19,
+    "highlights": [
+      "Pixel-level self-lit OLED for perfect blacks and infinite contrast",
+      "NVIDIA G-Sync, AMD FreeSync, and VRR support — the best gaming OLED",
+      "Dolby Vision IQ adjusts HDR in real-time based on room lighting",
+      "4x HDMI 2.1 ports — full bandwidth for PS5 and Xbox Series X at 4K 120Hz"
+    ],
+    "reviews": [
+      {
+        "author": "OLED_Evangelist",
+        "rating": 5,
+        "text": "The best mid-range TV you can buy. Nothing compares at this price for home cinema.",
+        "date": "2024-01-18"
+      },
+      {
+        "author": "PCGamer_Hanna",
+        "rating": 5,
+        "text": "Using it as a desktop monitor with my PC. OLED for productivity is life-changing.",
+        "date": "2024-02-25"
+      },
+      {
+        "author": "MovieBuff_Carlos",
+        "rating": 5,
+        "text": "Dolby Vision IQ is not marketing fluff — it genuinely adapts and the image always looks right.",
+        "date": "2024-03-31"
+      }
+    ]
+  },
+  {
+    "id": "lg-c3-oled-65",
+    "brand": "LG",
+    "model": "C3 OLED evo",
+    "name": "LG 65\" C3 OLED evo 4K TV",
+    "price": 1499,
+    "size": 65,
+    "displayType": "OLED evo",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision IQ",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "webOS 23",
+    "ports": {
+      "hdmi": 4,
+      "usb": 3
+    },
+    "rating": 4.8,
+    "reviewCount": 1893,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 12,
+    "highlights": [
+      "65\" self-lit OLED evo panel — no backlight, no bloom, no compromise",
+      "α9 Gen6 AI Processor handles upscaling, noise reduction, and Dolby Atmos processing",
+      "Gallery Mode displays curated art when idle — doubles as a wall piece",
+      "Thin profile with cable management system for clean wall installations"
+    ],
+    "reviews": [
+      {
+        "author": "HomeTheatre_Ravi",
+        "rating": 5,
+        "text": "Transformed our living room. No other TV at this price has this picture quality.",
+        "date": "2024-01-30"
+      },
+      {
+        "author": "Interior_Designer",
+        "rating": 5,
+        "text": "Gallery Mode makes it disappear into the room decor. Clients love the look.",
+        "date": "2024-02-22"
+      },
+      {
+        "author": "CriticalBuyer",
+        "rating": 4,
+        "text": "Outstanding picture. Knocked one star because webOS has too many upsell ads.",
+        "date": "2024-04-05"
+      }
+    ]
+  },
+  {
+    "id": "lg-c3-oled-77",
+    "brand": "LG",
+    "model": "C3 OLED evo",
+    "name": "LG 77\" C3 OLED evo 4K TV",
+    "price": 2499,
+    "size": 77,
+    "displayType": "OLED evo",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision IQ",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "webOS 23",
+    "ports": {
+      "hdmi": 4,
+      "usb": 3
+    },
+    "rating": 4.9,
+    "reviewCount": 687,
+    "inStock": true,
+    "deliveryDays": 3,
+    "quantityAvailable": 5,
+    "highlights": [
+      "Cinema-scale 77\" OLED evo with perfect per-pixel contrast",
+      "LG ThinQ AI built-in with Google Assistant and Amazon Alexa",
+      "Filmmaker Mode disables processing for a director-approved image",
+      "Hands down the best TV for dedicated home cinema rooms"
+    ],
+    "reviews": [
+      {
+        "author": "HomecinemaBuilder",
+        "rating": 5,
+        "text": "Replaced a 75\" projector setup with this. No regrets — image is sharper and zero maintenance.",
+        "date": "2024-02-01"
+      },
+      {
+        "author": "LargeSpace_Owner",
+        "rating": 5,
+        "text": "Commands the room. Picture is so good guests ask if it is a window.",
+        "date": "2024-03-08"
+      },
+      {
+        "author": "LuxuryBuyer",
+        "rating": 4,
+        "text": "Spectacular picture but delivery and mounting were a two-person job. Worth it.",
+        "date": "2024-04-18"
+      }
+    ]
+  },
+  {
+    "id": "lg-b3-oled-55",
+    "brand": "LG",
+    "model": "B3 OLED",
+    "name": "LG 55\" B3 OLED 4K TV",
+    "price": 799,
+    "size": 55,
+    "displayType": "OLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "webOS 23",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.6,
+    "reviewCount": 1452,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 26,
+    "highlights": [
+      "OLED technology at the most accessible price point LG offers",
+      "Perfect blacks, infinite contrast, and 120Hz — all under $800",
+      "Dolby Vision and Dolby Atmos support for premium streaming content",
+      "ALLM and VRR for a solid console gaming experience"
+    ],
+    "reviews": [
+      {
+        "author": "FirstOLED_Buyer",
+        "rating": 5,
+        "text": "First OLED purchase and I am blown away. Cannot believe this is under $800.",
+        "date": "2024-01-22"
+      },
+      {
+        "author": "Upgrader_Pat",
+        "rating": 4,
+        "text": "Came from a 4K LED and the difference in dark scenes is night and day.",
+        "date": "2024-02-18"
+      },
+      {
+        "author": "ValueOLED",
+        "rating": 5,
+        "text": "The sweet spot in the LG lineup. B3 has the same OLED panel at a lower price.",
+        "date": "2024-03-27"
+      }
+    ]
+  },
+  {
+    "id": "lg-b3-oled-65",
+    "brand": "LG",
+    "model": "B3 OLED",
+    "name": "LG 65\" B3 OLED 4K TV",
+    "price": 999,
+    "size": 65,
+    "displayType": "OLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "webOS 23",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.5,
+    "reviewCount": 1087,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 17,
+    "highlights": [
+      "65\" OLED for under $1,000 — remarkable value at this size",
+      "Self-lit pixels deliver contrast that no LED or Mini LED can match",
+      "webOS 23 with Magic Remote for intuitive content discovery",
+      "Great for movie nights, sports, and gaming in moderately lit rooms"
+    ],
+    "reviews": [
+      {
+        "author": "BigScreen_Mark",
+        "rating": 5,
+        "text": "65\" OLED under a grand? Grabbed it immediately. Zero regrets.",
+        "date": "2024-01-15"
+      },
+      {
+        "author": "MovieFan_Grace",
+        "rating": 4,
+        "text": "Picture is superb. Slightly less bright than the C3 but movies in a dark room are stunning.",
+        "date": "2024-03-02"
+      },
+      {
+        "author": "DigitalNomad_Jay",
+        "rating": 4,
+        "text": "Used it as a work-from-home display. OLED is addictive once you try it.",
+        "date": "2024-04-09"
+      }
+    ]
+  },
+  {
+    "id": "lg-qned90-65",
+    "brand": "LG",
+    "model": "QNED90",
+    "name": "LG 65\" QNED90 Mini LED 4K TV",
+    "price": 699,
+    "size": 65,
+    "displayType": "Mini LED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision IQ",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "webOS 23",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.4,
+    "reviewCount": 876,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 22,
+    "highlights": [
+      "Mini LED backlighting with NanoCell colour filter for improved accuracy",
+      "Dolby Vision IQ adapts brightness to your room in real-time",
+      "120Hz for smooth motion in sports and gaming",
+      "LG webOS 23 with built-in streaming apps and Magic Remote"
+    ],
+    "reviews": [
+      {
+        "author": "NonOLED_User",
+        "rating": 4,
+        "text": "Very good picture for the price. Mini LED backlight is a real improvement over edge-lit.",
+        "date": "2024-02-06"
+      },
+      {
+        "author": "SportsViewer",
+        "rating": 5,
+        "text": "Fast motion is handled beautifully. Football matches look broadcast quality.",
+        "date": "2024-03-20"
+      },
+      {
+        "author": "Budget_Conscious",
+        "rating": 4,
+        "text": "Great halfway point between budget and premium. Dolby Vision is a bonus at this price.",
+        "date": "2024-04-14"
+      }
+    ]
+  },
+  {
+    "id": "lg-uq7590-43",
+    "brand": "LG",
+    "model": "UQ7590",
+    "name": "LG 43\" UQ7590 4K LED TV",
+    "price": 299,
+    "size": 43,
+    "displayType": "LED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "webOS 22",
+    "ports": {
+      "hdmi": 3,
+      "usb": 2
+    },
+    "rating": 4.1,
+    "reviewCount": 2109,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 67,
+    "highlights": [
+      "LG reliability at an entry-level price point",
+      "4K UHD resolution with AI upscaling for HD content",
+      "webOS 22 with Magic Remote included",
+      "Compact 43\" size ideal for bedrooms, kitchens, and small offices"
+    ],
+    "reviews": [
+      {
+        "author": "BulkBuyer_IT",
+        "rating": 4,
+        "text": "Ordered 10 for our office breakrooms. Arrived fast and all working perfectly.",
+        "date": "2024-01-08"
+      },
+      {
+        "author": "BedroomTV",
+        "rating": 4,
+        "text": "Does exactly what I need. Good picture for the price, easy to use.",
+        "date": "2024-02-16"
+      },
+      {
+        "author": "MomBought",
+        "rating": 5,
+        "text": "Bought for my mum. webOS is dead simple to navigate, even for non-tech users.",
+        "date": "2024-03-25"
+      }
+    ]
+  },
+  {
+    "id": "sony-x90l-55",
+    "brand": "Sony",
+    "model": "BRAVIA XR X90L",
+    "name": "Sony 55\" BRAVIA XR X90L 4K TV",
+    "price": 899,
+    "size": 55,
+    "displayType": "Full Array LED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.5,
+    "reviewCount": 987,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 20,
+    "highlights": [
+      "BRAVIA XR Cognitive Processor for natural colour reproduction",
+      "Full array LED with XR Backlight Master Drive for localised dimming",
+      "Google TV with Chromecast built-in and 700,000+ movies and shows",
+      "Acoustic Multi-Audio speakers align sound with on-screen position"
+    ],
+    "reviews": [
+      {
+        "author": "SonyFan_Lin",
+        "rating": 5,
+        "text": "Sony colour processing is second to none. Skin tones and natural scenes look hyper-realistic.",
+        "date": "2024-01-25"
+      },
+      {
+        "author": "CasualUser",
+        "rating": 4,
+        "text": "Google TV is the best smart platform I have used. Everything is easy to find.",
+        "date": "2024-02-28"
+      },
+      {
+        "author": "AudioPhile_Ryan",
+        "rating": 5,
+        "text": "Acoustic Multi-Audio surprised me. Sound feels like it comes from the right place on screen.",
+        "date": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "id": "sony-x90l-65",
+    "brand": "Sony",
+    "model": "BRAVIA XR X90L",
+    "name": "Sony 65\" BRAVIA XR X90L 4K TV",
+    "price": 999,
+    "size": 65,
+    "displayType": "Full Array LED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.5,
+    "reviewCount": 1342,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 16,
+    "highlights": [
+      "XR Cognitive Processor mimics human visual perception for natural images",
+      "Dolby Vision and Dolby Atmos for premium streaming and Blu-ray",
+      "HDMI 2.1 eARC for lossless audio to compatible soundbars",
+      "Trusted Sony brand — known for longevity and consistent quality"
+    ],
+    "reviews": [
+      {
+        "author": "TrustBrand_User",
+        "rating": 5,
+        "text": "Third Sony TV in a row. Never had a reliability issue and the picture keeps getting better.",
+        "date": "2024-02-04"
+      },
+      {
+        "author": "StreamingFan",
+        "rating": 4,
+        "text": "Google TV is excellent. Netflix, Disney+, and HBO are all front and centre.",
+        "date": "2024-03-12"
+      },
+      {
+        "author": "OfficePurchase",
+        "rating": 5,
+        "text": "Deployed six of these in our boardrooms. Consistent quality and simple management.",
+        "date": "2024-04-10"
+      }
+    ]
+  },
+  {
+    "id": "sony-x90l-75",
+    "brand": "Sony",
+    "model": "BRAVIA XR X90L",
+    "name": "Sony 75\" BRAVIA XR X90L 4K TV",
+    "price": 1499,
+    "size": 75,
+    "displayType": "Full Array LED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.6,
+    "reviewCount": 623,
+    "inStock": true,
+    "deliveryDays": 3,
+    "quantityAvailable": 8,
+    "highlights": [
+      "75\" full array LED with flagship Sony processing for large rooms",
+      "XR Backlight Master Drive with hundreds of dimming zones",
+      "Perfect for home theatres, large living rooms, and open-plan offices",
+      "PlayStation 5 optimised: automatic 4K 120Hz with VRR and ALLM"
+    ],
+    "reviews": [
+      {
+        "author": "BigRoom_Fan",
+        "rating": 5,
+        "text": "The only TV that could fill our open-plan living room. Picture holds up at any distance.",
+        "date": "2024-01-30"
+      },
+      {
+        "author": "PS5_Gamer_Sam",
+        "rating": 5,
+        "text": "PS5 auto-detects and switches to 4K 120Hz. Gaming experience is incredible on 75\".",
+        "date": "2024-03-08"
+      },
+      {
+        "author": "Installer_Pro",
+        "rating": 4,
+        "text": "Wall-mounted three of these for a client. Install was smooth and Sony support was responsive.",
+        "date": "2024-04-06"
+      }
+    ]
+  },
+  {
+    "id": "sony-x80l-43",
+    "brand": "Sony",
+    "model": "BRAVIA X80L",
+    "name": "Sony 43\" BRAVIA X80L 4K TV",
+    "price": 349,
+    "size": 43,
+    "displayType": "LED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 3,
+      "usb": 2
+    },
+    "rating": 4.2,
+    "reviewCount": 1876,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 48,
+    "highlights": [
+      "Trusted Sony build quality at an entry price",
+      "Google TV with automatic content recommendations",
+      "X-Reality PRO upscaling engine processes every scene in real-time",
+      "Ideal for bedrooms, small offices, and secondary screens"
+    ],
+    "reviews": [
+      {
+        "author": "Bedroom_Screen",
+        "rating": 4,
+        "text": "Great picture for a budget Sony. Google TV has everything I need.",
+        "date": "2024-01-14"
+      },
+      {
+        "author": "Office_Secondary",
+        "rating": 4,
+        "text": "Running as a second screen in the office. Solid performer at the price.",
+        "date": "2024-02-19"
+      },
+      {
+        "author": "Gift_Buyer_Rosa",
+        "rating": 5,
+        "text": "Bought as a gift. The recipient loves it — says Sony brand feels premium even at this price.",
+        "date": "2024-03-28"
+      }
+    ]
+  },
+  {
+    "id": "sony-x80l-55",
+    "brand": "Sony",
+    "model": "BRAVIA X80L",
+    "name": "Sony 55\" BRAVIA X80L 4K TV",
+    "price": 549,
+    "size": 55,
+    "displayType": "LED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 3,
+      "usb": 2
+    },
+    "rating": 4.3,
+    "reviewCount": 2213,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 39,
+    "highlights": [
+      "Sony reliability and build quality at a mid-market price",
+      "Direct LED backlighting for even brightness across the panel",
+      "Google TV includes over 700,000 movies and shows",
+      "Slim, understated design that fits most room aesthetics"
+    ],
+    "reviews": [
+      {
+        "author": "Practical_Buyer",
+        "rating": 4,
+        "text": "Does not try to be flashy — just delivers a clean, reliable picture every time.",
+        "date": "2024-02-07"
+      },
+      {
+        "author": "OfficeTV_5pack",
+        "rating": 5,
+        "text": "Bought five for a small company deployment. Simple to set up and manage. Sony support is great.",
+        "date": "2024-03-15"
+      },
+      {
+        "author": "Stream_Only",
+        "rating": 4,
+        "text": "If you only stream (no cable, no Blu-ray), Google TV is the best OS on the market.",
+        "date": "2024-04-22"
+      }
+    ]
+  },
+  {
+    "id": "sony-a95l-65",
+    "brand": "Sony",
+    "model": "BRAVIA XR A95L",
+    "name": "Sony 65\" BRAVIA XR A95L QD-OLED 4K TV",
+    "price": 2499,
+    "size": 65,
+    "displayType": "QD-OLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 3
+    },
+    "rating": 4.9,
+    "reviewCount": 412,
+    "inStock": true,
+    "deliveryDays": 3,
+    "quantityAvailable": 4,
+    "highlights": [
+      "The highest-rated TV in our catalogue — Sony XR Processor + QD-OLED panel",
+      "Extraordinary colour volume: 99% DCI-P3 coverage with OLED contrast",
+      "Acoustic Surface Audio+ — the screen itself vibrates to produce sound",
+      "Designed for those who demand absolutely no compromise in picture quality"
+    ],
+    "reviews": [
+      {
+        "author": "PerfectPixel_Luke",
+        "rating": 5,
+        "text": "The best TV on the market today. Period. Colour science and contrast are unmatched.",
+        "date": "2024-01-10"
+      },
+      {
+        "author": "Audiophile_+Visual",
+        "rating": 5,
+        "text": "Acoustic Surface Audio is not a gimmick — the spatial imaging is genuinely different.",
+        "date": "2024-02-24"
+      },
+      {
+        "author": "TopTier_Review",
+        "rating": 5,
+        "text": "Spent weeks comparing the best TVs before buying. Nothing else comes close.",
+        "date": "2024-04-03"
+      }
+    ]
+  },
+  {
+    "id": "tcl-6series-55",
+    "brand": "TCL",
+    "model": "6-Series R655",
+    "name": "TCL 55\" 6-Series R655 QLED Mini LED 4K TV",
+    "price": 549,
+    "size": 55,
+    "displayType": "QLED Mini LED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision IQ",
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Roku TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.4,
+    "reviewCount": 2876,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 33,
+    "highlights": [
+      "Mini LED backlighting with over 1,000 dimming zones for deep local contrast",
+      "Dolby Vision IQ and HDR10+ — top-tier HDR at a mid-market price",
+      "Roku TV built-in: the simplest smart TV interface available",
+      "Outstanding value — picture quality punches above the price point"
+    ],
+    "reviews": [
+      {
+        "author": "ValueKing_TV",
+        "rating": 5,
+        "text": "At this price with Mini LED and Dolby Vision? Nothing else comes close.",
+        "date": "2024-01-17"
+      },
+      {
+        "author": "Roku_Lover",
+        "rating": 5,
+        "text": "Roku is so simple my grandparents use it without help. Huge selling point.",
+        "date": "2024-02-23"
+      },
+      {
+        "author": "TechCompare_Fan",
+        "rating": 4,
+        "text": "Tested against LG QNED at similar price. TCL won on brightness and contrast.",
+        "date": "2024-03-29"
+      }
+    ]
+  },
+  {
+    "id": "tcl-6series-65",
+    "brand": "TCL",
+    "model": "6-Series R655",
+    "name": "TCL 65\" 6-Series R655 QLED Mini LED 4K TV",
+    "price": 649,
+    "size": 65,
+    "displayType": "QLED Mini LED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision IQ",
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Roku TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.4,
+    "reviewCount": 3502,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 28,
+    "highlights": [
+      "Best picture-per-dollar at 65\" — Mini LED with 1,000+ dimming zones",
+      "120Hz for smooth sports and gaming",
+      "Dolby Atmos and Dolby Vision IQ for reference streaming quality",
+      "Roku TV: fastest smart platform boot time, zero bloatware"
+    ],
+    "reviews": [
+      {
+        "author": "SmartBuyer_Ana",
+        "rating": 5,
+        "text": "Compared this to TVs twice the price. Kept the TCL. Stunning for the money.",
+        "date": "2024-01-28"
+      },
+      {
+        "author": "DadOfThree",
+        "rating": 4,
+        "text": "Kids love it for movies. Roku is child-proof — no accidental purchases.",
+        "date": "2024-02-19"
+      },
+      {
+        "author": "TechHead_Omar",
+        "rating": 5,
+        "text": "Mini LED local dimming at this price is wild. HDR scenes look genuinely premium.",
+        "date": "2024-04-01"
+      }
+    ]
+  },
+  {
+    "id": "tcl-6series-75",
+    "brand": "TCL",
+    "model": "6-Series R655",
+    "name": "TCL 75\" 6-Series R655 QLED Mini LED 4K TV",
+    "price": 899,
+    "size": 75,
+    "displayType": "QLED Mini LED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision IQ",
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Roku TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.3,
+    "reviewCount": 1654,
+    "inStock": true,
+    "deliveryDays": 3,
+    "quantityAvailable": 14,
+    "highlights": [
+      "75\" Mini LED with Dolby Vision — a large-format screen at an approachable price",
+      "Ideal for open-plan living rooms where screen size matters most",
+      "Roku TV with automatic input detection and simple remote",
+      "TCL's most popular model series — proven reliability track record"
+    ],
+    "reviews": [
+      {
+        "author": "LargeScreen_Phil",
+        "rating": 5,
+        "text": "Nothing in this price range at 75\" comes close. Bought confidently and was not disappointed.",
+        "date": "2024-02-12"
+      },
+      {
+        "author": "MovieRoom_Build",
+        "rating": 4,
+        "text": "For a dedicated movie room at this budget, this is the obvious choice.",
+        "date": "2024-03-22"
+      },
+      {
+        "author": "NewHouseOwner",
+        "rating": 4,
+        "text": "First 75\" TV. The size is overwhelming in a good way. No regrets.",
+        "date": "2024-04-16"
+      }
+    ]
+  },
+  {
+    "id": "tcl-5series-43",
+    "brand": "TCL",
+    "model": "5-Series S555",
+    "name": "TCL 43\" 5-Series S555 QLED 4K TV",
+    "price": 279,
+    "size": 43,
+    "displayType": "QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Roku TV",
+    "ports": {
+      "hdmi": 3,
+      "usb": 1
+    },
+    "rating": 4,
+    "reviewCount": 4102,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 74,
+    "highlights": [
+      "Quantum Dot colour and Dolby Vision for under $280",
+      "Roku TV: the easiest-to-use smart platform with no subscription fees",
+      "Compact 43\" format — ideal for offices, bedrooms, and kitchens",
+      "TCL reliability at the most accessible price point in the range"
+    ],
+    "reviews": [
+      {
+        "author": "BulkOffice_IT",
+        "rating": 4,
+        "text": "Ordered 20 units for staff rooms. All delivered on time and set up in an hour.",
+        "date": "2024-01-05"
+      },
+      {
+        "author": "BudgetGamer",
+        "rating": 3,
+        "text": "60Hz is the only downside. For casual gaming it is fine, but no 120Hz.",
+        "date": "2024-02-17"
+      },
+      {
+        "author": "SimpleLiving",
+        "rating": 5,
+        "text": "Roku TV is perfect for my parents. They figured it out in five minutes.",
+        "date": "2024-03-30"
+      }
+    ]
+  },
+  {
+    "id": "tcl-5series-55",
+    "brand": "TCL",
+    "model": "5-Series S555",
+    "name": "TCL 55\" 5-Series S555 QLED 4K TV",
+    "price": 379,
+    "size": 55,
+    "displayType": "QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Roku TV",
+    "ports": {
+      "hdmi": 3,
+      "usb": 1
+    },
+    "rating": 4.1,
+    "reviewCount": 3287,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 61,
+    "highlights": [
+      "Dolby Vision at 55\" for under $380 — exceptional value",
+      "Quantum Dot display for wider, more accurate colours than standard LED",
+      "Roku TV ecosystem: access every major streaming service instantly",
+      "Simple setup — most users are watching content within 10 minutes of unboxing"
+    ],
+    "reviews": [
+      {
+        "author": "ValueStreamers",
+        "rating": 4,
+        "text": "If you just want to stream Netflix and Disney+ with a nice picture, this is all you need.",
+        "date": "2024-01-24"
+      },
+      {
+        "author": "OfficeBreak_Room",
+        "rating": 5,
+        "text": "Installed four in office break rooms. Roku is so simple that staff use it without training.",
+        "date": "2024-02-29"
+      },
+      {
+        "author": "RealistReviewer",
+        "rating": 3,
+        "text": "Good TV but 60Hz shows in fast sports. Fine for general use.",
+        "date": "2024-04-07"
+      }
+    ]
+  },
+  {
+    "id": "hisense-u8k-55",
+    "brand": "Hisense",
+    "model": "U8K",
+    "name": "Hisense 55\" U8K Mini LED ULED 4K TV",
+    "price": 649,
+    "size": 55,
+    "displayType": "Mini LED ULED",
+    "resolution": "4K UHD",
+    "refreshRate": 144,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.3,
+    "reviewCount": 854,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 21,
+    "highlights": [
+      "144Hz refresh rate — the fastest panel in this price bracket",
+      "Mini LED backlight with 2,000+ dimming zones for premium HDR performance",
+      "Dolby Vision and HDR10+ — dual HDR compatibility",
+      "Google TV with built-in Chromecast for easy device mirroring"
+    ],
+    "reviews": [
+      {
+        "author": "PCGamer_Felix",
+        "rating": 5,
+        "text": "144Hz on a TV for this price is wild. PC gaming on it is silky smooth.",
+        "date": "2024-01-20"
+      },
+      {
+        "author": "HDR_Tester",
+        "rating": 4,
+        "text": "Mini LED performance is impressive. Very close to Samsung QN90C at a lower price.",
+        "date": "2024-03-03"
+      },
+      {
+        "author": "NewBrand_Skeptic",
+        "rating": 4,
+        "text": "Was hesitant about Hisense. After six months, zero complaints. Good build quality.",
+        "date": "2024-04-11"
+      }
+    ]
+  },
+  {
+    "id": "hisense-u8k-65",
+    "brand": "Hisense",
+    "model": "U8K",
+    "name": "Hisense 65\" U8K Mini LED ULED 4K TV",
+    "price": 799,
+    "size": 65,
+    "displayType": "Mini LED ULED",
+    "resolution": "4K UHD",
+    "refreshRate": 144,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.3,
+    "reviewCount": 1203,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 18,
+    "highlights": [
+      "Highest refresh rate (144Hz) in this price range — ideal for PC gaming",
+      "Mini LED ULED with 2,500+ dimming zones and peak brightness over 2,000 nits",
+      "Dolby Vision and HDR10+ supported simultaneously",
+      "Google TV gives access to all major streaming platforms"
+    ],
+    "reviews": [
+      {
+        "author": "BudgetTechie",
+        "rating": 5,
+        "text": "Specs sheet reads like a $1,500 TV but costs $800. Hisense is closing the gap fast.",
+        "date": "2024-01-26"
+      },
+      {
+        "author": "ValueHDR_User",
+        "rating": 4,
+        "text": "Peak brightness is genuinely impressive. Daytime viewing with sunlight is no problem.",
+        "date": "2024-02-22"
+      },
+      {
+        "author": "Gaming_Enthusiast",
+        "rating": 5,
+        "text": "144Hz + VRR on console is noticeably smoother than my old 120Hz TV. Worth the upgrade.",
+        "date": "2024-04-17"
+      }
+    ]
+  },
+  {
+    "id": "hisense-u8k-75",
+    "brand": "Hisense",
+    "model": "U8K",
+    "name": "Hisense 75\" U8K Mini LED ULED 4K TV",
+    "price": 1099,
+    "size": 75,
+    "displayType": "Mini LED ULED",
+    "resolution": "4K UHD",
+    "refreshRate": 144,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.4,
+    "reviewCount": 534,
+    "inStock": true,
+    "deliveryDays": 3,
+    "quantityAvailable": 10,
+    "highlights": [
+      "75\" Mini LED ULED at under $1,100 — remarkable value at large format",
+      "144Hz with 3,000+ dimming zones for cinematic HDR at scale",
+      "Hi-View Engine Pro AI processor for scene-by-scene optimisation",
+      "Best large-format option for buyers who prioritise specs-per-dollar"
+    ],
+    "reviews": [
+      {
+        "author": "BigValueBuyer",
+        "rating": 5,
+        "text": "75\" at this spec level for $1,100? Cannot fault it. Hisense deserves more credit.",
+        "date": "2024-02-09"
+      },
+      {
+        "author": "HomecinemaValue",
+        "rating": 4,
+        "text": "Does not have Sony or Samsung prestige but technically outperforms TVs costing twice as much.",
+        "date": "2024-03-14"
+      },
+      {
+        "author": "LargeSpace_Value",
+        "rating": 4,
+        "text": "Fills a large room at a price that did not require financing. Very happy.",
+        "date": "2024-04-20"
+      }
+    ]
+  },
+  {
+    "id": "hisense-a6h-43",
+    "brand": "Hisense",
+    "model": "A6H",
+    "name": "Hisense 43\" A6H 4K LED TV",
+    "price": 259,
+    "size": 43,
+    "displayType": "LED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 2,
+      "usb": 1
+    },
+    "rating": 3.9,
+    "reviewCount": 3108,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 89,
+    "highlights": [
+      "Lowest-cost 4K TV in the catalogue — starts at $259",
+      "Google TV included with access to all major streaming apps",
+      "Motion Rate 60 for standard TV viewing and casual streaming",
+      "Simple, lightweight design for small spaces and secondary rooms"
+    ],
+    "reviews": [
+      {
+        "author": "Cheapest_4K",
+        "rating": 4,
+        "text": "Needed a cheap TV for the garage. Does 4K streaming. Job done.",
+        "date": "2024-01-08"
+      },
+      {
+        "author": "Mass_Deploy_IT",
+        "rating": 3,
+        "text": "Bought 30 for hotel rooms. Most work great, had two DOAs but Hisense replaced them.",
+        "date": "2024-02-14"
+      },
+      {
+        "author": "StudentRoom",
+        "rating": 4,
+        "text": "Perfect for a student budget. Google TV means I can watch everything I need.",
+        "date": "2024-03-21"
+      }
+    ]
+  },
+  {
+    "id": "hisense-a6h-50",
+    "brand": "Hisense",
+    "model": "A6H",
+    "name": "Hisense 50\" A6H 4K LED TV",
+    "price": 319,
+    "size": 50,
+    "displayType": "LED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "Google TV",
+    "ports": {
+      "hdmi": 2,
+      "usb": 1
+    },
+    "rating": 4,
+    "reviewCount": 2789,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 71,
+    "highlights": [
+      "50\" 4K for under $320 — the accessible entry point to larger screens",
+      "Google TV with Chromecast built-in for easy content casting",
+      "Eye Comfort Mode adjusts blue light levels for long viewing sessions",
+      "Reliable choice for office conference rooms needing a simple, affordable screen"
+    ],
+    "reviews": [
+      {
+        "author": "OfficeBasics",
+        "rating": 4,
+        "text": "Five of these in our small offices. All running fine for a year. Good reliable choice.",
+        "date": "2024-01-19"
+      },
+      {
+        "author": "StreamingOnly",
+        "rating": 4,
+        "text": "All I do is Netflix and YouTube. This TV does it perfectly and costs almost nothing.",
+        "date": "2024-02-27"
+      },
+      {
+        "author": "MovingOut",
+        "rating": 3,
+        "text": "Screen is decent but stand feels cheap. Picture is fine for the price.",
+        "date": "2024-04-04"
+      }
+    ]
+  },
+  {
+    "id": "vizio-pqx-65",
+    "brand": "Vizio",
+    "model": "P-Series Quantum X",
+    "name": "Vizio 65\" P-Series Quantum X 4K TV",
+    "price": 699,
+    "size": 65,
+    "displayType": "QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "SmartCast",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.2,
+    "reviewCount": 1432,
+    "inStock": true,
+    "deliveryDays": 3,
+    "quantityAvailable": 13,
+    "highlights": [
+      "Quantum Color technology with 240 local dimming zones",
+      "120Hz panel with HDMI 2.1 support for console gaming",
+      "Dolby Vision and Dolby Atmos for reference streaming",
+      "SmartCast with built-in Chromecast and Apple AirPlay 2"
+    ],
+    "reviews": [
+      {
+        "author": "VizioConvert",
+        "rating": 4,
+        "text": "Was sceptical about Vizio but the P-Series is genuinely impressive. Strong local dimming.",
+        "date": "2024-02-05"
+      },
+      {
+        "author": "AppleUser_TV",
+        "rating": 5,
+        "text": "AirPlay 2 works flawlessly. Best TV for Apple ecosystem integration at this price.",
+        "date": "2024-03-16"
+      },
+      {
+        "author": "QuantumX_Fan",
+        "rating": 4,
+        "text": "Very good picture. SmartCast is a bit clunky compared to Roku or Google TV.",
+        "date": "2024-04-13"
+      }
+    ]
+  },
+  {
+    "id": "vizio-pqx-75",
+    "brand": "Vizio",
+    "model": "P-Series Quantum X",
+    "name": "Vizio 75\" P-Series Quantum X 4K TV",
+    "price": 999,
+    "size": 75,
+    "displayType": "QLED",
+    "resolution": "4K UHD",
+    "refreshRate": 120,
+    "hdr": [
+      "Dolby Vision",
+      "HDR10+",
+      "HLG"
+    ],
+    "smartPlatform": "SmartCast",
+    "ports": {
+      "hdmi": 4,
+      "usb": 2
+    },
+    "rating": 4.3,
+    "reviewCount": 876,
+    "inStock": true,
+    "deliveryDays": 3,
+    "quantityAvailable": 7,
+    "highlights": [
+      "75\" QLED with Quantum Color at under $1,000",
+      "480 local dimming zones for premium HDR performance at large format",
+      "Apple AirPlay 2 and Chromecast built-in",
+      "Great option when you want a large screen without the Samsung or Sony premium"
+    ],
+    "reviews": [
+      {
+        "author": "LargeScreen_Value",
+        "rating": 4,
+        "text": "75\" under a grand with Dolby Vision — hard to argue with that value proposition.",
+        "date": "2024-01-31"
+      },
+      {
+        "author": "AppleHousehold",
+        "rating": 5,
+        "text": "AirPlay 2 and HomeKit make this the obvious choice for an Apple household.",
+        "date": "2024-02-26"
+      },
+      {
+        "author": "BigSpaceSmallBudget",
+        "rating": 4,
+        "text": "Needed to fill a large wall without overspending. This hit the brief perfectly.",
+        "date": "2024-04-19"
+      }
+    ]
+  },
+  {
+    "id": "vizio-v-series-50",
+    "brand": "Vizio",
+    "model": "V-Series V505",
+    "name": "Vizio 50\" V-Series V505 4K TV",
+    "price": 329,
+    "size": 50,
+    "displayType": "LED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "SmartCast",
+    "ports": {
+      "hdmi": 3,
+      "usb": 1
+    },
+    "rating": 3.9,
+    "reviewCount": 2541,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 55,
+    "highlights": [
+      "Apple AirPlay 2 and Chromecast built-in at an entry price",
+      "V-Gamut colour technology for wider coverage than standard LED",
+      "Simple SmartCast interface with access to all major apps",
+      "Reliable option for conference rooms and low-demand office screens"
+    ],
+    "reviews": [
+      {
+        "author": "SimpleSolution",
+        "rating": 4,
+        "text": "No frills. AirPlay 2 works great for screen sharing in meetings. Does the job.",
+        "date": "2024-01-11"
+      },
+      {
+        "author": "OfficeTV_Basic",
+        "rating": 3,
+        "text": "SmartCast is the weakest smart platform on this list. Fine for meetings, bad for streaming.",
+        "date": "2024-02-21"
+      },
+      {
+        "author": "GoodEnough_Fan",
+        "rating": 4,
+        "text": "Bought to replace a broken monitor in the breakroom. Staff are happy with it.",
+        "date": "2024-03-27"
+      }
+    ]
+  },
+  {
+    "id": "vizio-v-series-55",
+    "brand": "Vizio",
+    "model": "V-Series V555",
+    "name": "Vizio 55\" V-Series V555 4K TV",
+    "price": 369,
+    "size": 55,
+    "displayType": "LED",
+    "resolution": "4K UHD",
+    "refreshRate": 60,
+    "hdr": [
+      "HDR10",
+      "HLG"
+    ],
+    "smartPlatform": "SmartCast",
+    "ports": {
+      "hdmi": 3,
+      "usb": 1
+    },
+    "rating": 4,
+    "reviewCount": 2014,
+    "inStock": true,
+    "deliveryDays": 2,
+    "quantityAvailable": 46,
+    "highlights": [
+      "55\" 4K with Apple AirPlay 2 for under $370",
+      "IQ Active Processor upscales HD content to 4K resolution",
+      "Dolby Audio and DTS:X for improved audio over standard stereo",
+      "Budget-friendly option for small offices needing simple, reliable screens"
+    ],
+    "reviews": [
+      {
+        "author": "SmallOffice_5x",
+        "rating": 4,
+        "text": "Bought five for a startup office. Cheap, reliable, AirPlay works for demos. Solid choice.",
+        "date": "2024-01-29"
+      },
+      {
+        "author": "BasicTV_Fan",
+        "rating": 4,
+        "text": "Does what it says. Not flashy but the picture is clean and setup was five minutes.",
+        "date": "2024-03-09"
+      },
+      {
+        "author": "CriticalReview",
+        "rating": 3,
+        "text": "SmartCast is clunky and slow. Buy for AirPlay or presentations, not for daily streaming.",
+        "date": "2024-04-21"
+      }
+    ]
+  }
+]
