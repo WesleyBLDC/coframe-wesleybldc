@@ -13,7 +13,7 @@ export interface Analysis {
 
 const ENDPOINT = 'https://openrouter.ai/api/v1/chat/completions';
 const MODEL = 'nvidia/nemotron-3.5-lightning';
-const TIMEOUT_MS = 3000;
+const TIMEOUT_MS = 5000;
 // Measured 2026-10-20 on a tiny prompt: DeepInfra ~0.8s, Darkbloom ~1.2s.
 // OpenRouter's default routing picked Io Net, which took 8 to 10s and blew the budget.
 const PROVIDERS = ['DeepInfra', 'Darkbloom'];
