@@ -99,7 +99,6 @@ export default function TestBar() {
             name="q"
             value={q}
             onChange={e => setQ(e.target.value)}
-            placeholder="cheap 55 inch tv for my parents"
             aria-label="Visitor context (q)"
           />
           {idCount > 0 && (
