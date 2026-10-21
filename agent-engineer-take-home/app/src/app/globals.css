@@ -563,3 +563,9 @@ h2 {
 }
 
 .rest-title { margin-bottom: 16px; }
+
+.testbar-time {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: #1a1a1a;
+}

@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState, useTransition } from 'react';
+import { useEffect, useRef, useState, useTransition } from 'react';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 
 // The README's example visitors, for quick manual testing.
@@ -38,6 +38,16 @@ export default function TestBar() {
   const [ids, setIds] = useState(searchParams.get('ids') ?? '');
   const [open, setOpen] = useState(false);
   const [isPending, startTransition] = useTransition();
+  const startedAt = useRef<number | null>(null);
+  const [elapsedMs, setElapsedMs] = useState<number | null>(null);
+
+  // When a query finishes, show how long the round trip took (classifiers plus server render).
+  useEffect(() => {
+    if (!isPending && startedAt.current !== null) {
+      setElapsedMs(performance.now() - startedAt.current);
+      startedAt.current = null;
+    }
+  }, [isPending]);
 
   // Keep the bar in step with the URL (back/forward, links).
   useEffect(() => {
@@ -49,6 +59,8 @@ export default function TestBar() {
     const target = href(nextQ, nextIds);
     const current = `${pathname}${searchParams.toString() ? `?${searchParams}` : ''}`;
     // The transition stays pending until the server render (and its LLM call) finishes.
+    startedAt.current = performance.now();
+    setElapsedMs(null);
     startTransition(() => {
       if (target === current) router.refresh();
       else router.push(target);
@@ -112,11 +124,13 @@ export default function TestBar() {
         <button type="submit" className="testbar-go" disabled={isPending}>Go</button>
 
         <span className={`testbar-status${isPending ? ' is-pending' : ''}`} aria-live="polite">
-          {isPending && (
+          {isPending ? (
             <>
               <span className="testbar-spinner" aria-hidden />
               Thinking…
             </>
+          ) : elapsedMs !== null && (
+            <span className="testbar-time" title="Time from Go to the page being ready">{(elapsedMs / 1000).toFixed(2)}s</span>
           )}
         </span>
       </form>
