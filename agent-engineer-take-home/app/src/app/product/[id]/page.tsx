@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { getProductById } from '@/lib/products';
+import { getProductById, productImage } from '@/lib/products';
 
 export default async function ProductPage({
   params,
@@ -18,7 +18,7 @@ export default async function ProductPage({
 
       <div className="pdp-layout">
         <div className="pdp-main">
-          <div className="pdp-image" />
+          <div className="pdp-image"><img src={productImage(product)} alt={product.name} /></div>
           <span style={{ fontSize: 12, fontWeight: 600, textTransform: 'uppercase', letterSpacing: '.5px', color: '#888', marginTop: 20, display: 'block' }}>{product.brand}</span>
           <h2 style={{ marginTop: 4 }}>{product.name}</h2>
 

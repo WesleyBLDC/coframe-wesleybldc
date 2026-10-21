@@ -38,3 +38,17 @@ export function getAllProducts(): Product[] {
 export function getProductById(id: string): Product | undefined {
   return products.find(p => p.id === id);
 }
+
+// One generated photo per brand in public/products, shared by every product of that brand.
+const BRAND_IMAGES: Record<string, string> = {
+  LG: '/products/lg-c3-oled-65.jpg',
+  Samsung: '/products/samsung-s90c-65.jpg',
+  Sony: '/products/sony-x80l-55.jpg',
+  TCL: '/products/tcl-6series-75.jpg',
+  Hisense: '/products/hisense-a6h-43.jpg',
+  Vizio: '/products/vizio-pqx-65.jpg',
+};
+
+export function productImage(p: Product): string {
+  return BRAND_IMAGES[p.brand] ?? BRAND_IMAGES.LG;
+}

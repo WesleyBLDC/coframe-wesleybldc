@@ -1,4 +1,4 @@
-import type { Product } from '@/lib/products';
+import { productImage, type Product } from '@/lib/products';
 
 export function stars(rating: number): string {
   return '★'.repeat(Math.round(rating)) + '☆'.repeat(5 - Math.round(rating));
@@ -30,7 +30,7 @@ export function CatalogGrid({ products }: { products: Product[] }) {
     <div className="catalog-grid">
       {products.map(p => (
         <a key={p.id} href={`/product/${p.id}`} className="product-card">
-          <div className="card-image" />
+          <div className="card-image"><img src={productImage(p)} alt={p.name} loading="lazy" /></div>
           <span className="brand">{p.brand}</span>
           <span className="product-name">{p.name}</span>
           <span className="price">${p.price.toLocaleString()}</span>

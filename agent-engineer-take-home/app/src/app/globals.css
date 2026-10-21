@@ -569,3 +569,12 @@ h2 {
   font-weight: 600;
   color: #1a1a1a;
 }
+
+/* Product photos fill the existing placeholder boxes. */
+.card-image img,
+.pdp-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

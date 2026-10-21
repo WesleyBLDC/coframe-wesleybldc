@@ -1,3 +1,4 @@
+import { productImage } from '@/lib/products';
 import type { TemplateProps } from './types';
 import { Empty, Reason, money, stars, topReview } from './shared';
 
@@ -15,7 +16,7 @@ export default function Nontechnical({ products, context }: TemplateProps) {
             return (
               <a key={p.id} href={`/product/${p.id}`} className="product-card pick-card">
                 {i === 0 && <span className="tpl-badge">Top pick</span>}
-                <div className="card-image" />
+                <div className="card-image"><img src={productImage(p)} alt={p.name} loading="lazy" /></div>
                 <span className="brand">{p.brand}</span>
                 <span className="product-name">{p.name}</span>
                 <span className="price">{money(p.price)}</span>

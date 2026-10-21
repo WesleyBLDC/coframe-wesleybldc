@@ -1,3 +1,4 @@
+import { productImage } from '@/lib/products';
 import type { TemplateProps } from './types';
 import { Empty, Reason, money, stars } from './shared';
 
@@ -12,7 +13,7 @@ export default function Spotlight({ products, context }: TemplateProps) {
       <Reason text={context.reason} />
       <div className="pdp-layout">
         <div className="pdp-main">
-          <div className="pdp-image" />
+          <div className="pdp-image"><img src={productImage(hero)} alt={hero.name} /></div>
           <span className="compare-brand">{hero.brand}</span>
           <h2><a href={`/product/${hero.id}`} className="plain-link">{hero.name}</a></h2>
           <p className="rating-meta">{stars(hero.rating)} {hero.rating} · {hero.reviewCount.toLocaleString()} reviews</p>
