@@ -479,6 +479,13 @@ h2 {
 
 .testbar-search:focus-within { border-color: #1a1a1a; }
 
+.testbar-prefix {
+  color: #888;
+  font-size: 14px;
+  white-space: nowrap;
+  margin-right: -8px;
+}
+
 .testbar-search input {
   flex: 1;
   min-width: 0;

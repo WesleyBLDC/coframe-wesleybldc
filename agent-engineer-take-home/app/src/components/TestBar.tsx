@@ -94,11 +94,12 @@ export default function TestBar() {
         </div>
 
         <div className="testbar-search">
+          <span className="testbar-prefix" aria-hidden>https://coframe-tv/?q=</span>
           <input
             name="q"
             value={q}
             onChange={e => setQ(e.target.value)}
-            placeholder="Describe the visitor, e.g. cheap 55 inch tv for my parents"
+            placeholder="cheap 55 inch tv for my parents"
             aria-label="Visitor context (q)"
           />
           {idCount > 0 && (
