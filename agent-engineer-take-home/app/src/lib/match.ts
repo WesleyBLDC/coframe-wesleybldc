@@ -124,6 +124,15 @@ function tokens(s: string): string[] {
 }
 
 /**
+ * Products the note names outright, such as "the Sony 65 inch X90L": every token of the product id
+ * (sony, x90l, 65) appears in the note. Lets a typed model name act like a flagged id.
+ */
+export function namedIn(q: string, products: Product[]): Product[] {
+  const words = new Set(tokens(q));
+  return products.filter(p => tokens(p.id).every(t => words.has(t)));
+}
+
+/**
  * Resolves flagged IDs that may not be exact ("LG C3 65", "lg_c3_oled_65") to catalog products.
  * Exact or normalised ID first; otherwise the product whose id, brand, model and size contain every
  * token, preferring the most reviewed when several do. Unmatched IDs are dropped.

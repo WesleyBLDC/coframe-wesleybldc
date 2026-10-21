@@ -4,7 +4,7 @@
 // .env.local never overrides a variable the shell already exports; if your shell exports an
 // OpenAI OPENAI_API_KEY, run it as `env -u OPENAI_API_KEY npx tsx scripts/eval.ts --llm`.
 import { getAllProducts } from '../src/lib/products';
-import { matchIds, select, type Filters } from '../src/lib/match';
+import { matchIds, namedIn, select, type Filters } from '../src/lib/match';
 import { filtersByRules, templateByRules } from '../src/lib/rules';
 
 try {
@@ -30,6 +30,8 @@ check('spaced name', ids(matchIds(['LG C3 65'], products)), ['lg-c3-oled-65']);
 check('underscored id', ids(matchIds(['sony_a95l_65'], products)), ['sony-a95l-65']);
 check('model with inch mark', ids(matchIds(['Samsung S90C 55"'], products)), ['samsung-s90c-55']);
 check('unknown id dropped', ids(matchIds(['not-a-tv'], products)), []);
+check('model named in the note', ids(namedIn('i want the Sony 65" BRAVIA XR X90L 4K TV', products)), ['sony-x90l-65']);
+check('brand and size alone name nothing', ids(namedIn('compare 65 inch samsung and lg tvs', products)), []);
 
 // Keyword rules (the fallback when a classifier fails)
 const README = [

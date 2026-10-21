@@ -1,6 +1,6 @@
 import { getAllProducts } from '@/lib/products';
 import { classifyTemplate, extractFilters, type TemplateName } from '@/lib/classifiers';
-import { matchIds, select, type Filters } from '@/lib/match';
+import { matchIds, namedIn, select, type Filters } from '@/lib/match';
 import { filtersByRules, templateByRules } from '@/lib/rules';
 
 export type { TemplateName } from '@/lib/classifiers';
@@ -29,7 +29,8 @@ const cache = new Map<string, { at: number; value: Analysis }>();
 
 export async function analyzeUserContext(q: string, ids: string[] = []): Promise<Analysis> {
   const products = getAllProducts();
-  const flagged = matchIds(ids, products);
+  // Flagged IDs first, then any model the note names outright.
+  const flagged = [...new Set([...matchIds(ids, products), ...namedIn(q, products)])];
   const key = `${q.trim().toLowerCase()}|${flagged.map(p => p.id).join(',')}`;
   const hit = cache.get(key);
   if (hit && Date.now() - hit.at < CACHE_TTL_MS) return { ...hit.value, source: { template: 'cache', filters: 'cache' } };

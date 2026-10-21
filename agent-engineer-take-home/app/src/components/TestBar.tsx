@@ -20,6 +20,14 @@ const EXAMPLES = [
     q: 'buying 5 units for a conference room need reliable trusted brand simple setup best price no new brands',
     ids: 'sony-x90l-65,samsung-q60c-65,sony-x80l-55',
   },
+  // One query per layout, labelled with the layout it should produce.
+  ...[
+    ['nontechnical', 'i need a good tv for my parents that is easy to use and not too expensive'],
+    ['comparison', 'compare 65 inch samsung and lg tvs with 120hz and dolby vision'],
+    ['bulk', 'we need 10 tvs for our hotel rooms, 43 inch, reliable and cheap'],
+    ['spotlight', 'i want the Sony 65" BRAVIA XR X90L 4K TV'],
+    ['fallback', 'what is the weather in paris tomorrow'],
+  ].map(([template, q]) => ({ label: `${template}: ${q}`, q, ids: '' })),
 ];
 
 function href(q: string, ids: string): string {
