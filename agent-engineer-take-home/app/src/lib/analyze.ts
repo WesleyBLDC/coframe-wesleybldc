@@ -11,12 +11,13 @@ export interface Analysis {
   source: 'llm' | 'fallback';
 }
 
-const ENDPOINT = 'https://openrouter.ai/api/v1/chat/completions';
-const MODEL = 'nvidia/nemotron-3.5-lightning';
+const BASE_URL = process.env.LLM_BASE_URL || 'https://openrouter.ai/api/v1';
+// Tried in order by OpenRouter's `models` fallback, which covers errors and 429s, not slow replies.
+// Measured 2026-10-20 on the storefront prompt: both answered in about 1s; other free models were
+// rate limited, reasoning-only, or took 5 to 21s.
+const MODELS = (process.env.LLM_MODELS || 'nvidia/nemotron-3.5-lightning:free,nvidia/nemotron-3.5-super-vl:free')
+  .split(',').map(m => m.trim()).filter(Boolean);
 const TIMEOUT_MS = 5000;
-// Measured 2026-10-20 on a tiny prompt: DeepInfra ~0.8s, Darkbloom ~1.2s.
-// OpenRouter's default routing picked Io Net, which took 8 to 10s and blew the budget.
-const PROVIDERS = ['DeepInfra', 'Darkbloom'];
 
 const SYSTEM_PROMPT = `You are an expert TV sales advisor for an online store.
 A visitor arrives with a short note describing who they are and what they want.
@@ -79,12 +80,12 @@ export async function analyzeUserContext(q: string, ids: string[] = []): Promise
   if (!key) return fallback(flagged, 'OPENAI_API_KEY not set');
 
   try {
-    const res = await fetch(ENDPOINT, {
+    const res = await fetch(`${BASE_URL}/chat/completions`, {
       method: 'POST',
       headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        model: MODEL,
-        provider: { order: PROVIDERS },
+        models: MODELS,
+        provider: { sort: 'latency' },
         reasoning: { enabled: false },
         response_format: { type: 'json_object' },
         temperature: 0,
