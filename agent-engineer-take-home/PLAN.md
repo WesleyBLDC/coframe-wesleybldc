@@ -3,6 +3,20 @@
 One LLM call turns `q` (and optional `ids`) into a list of product IDs plus one of five fixed templates.
 The page renders that template server side, with a 3 second LLM cutoff that falls back to the normal catalog.
 
+## Status and changes made during the build
+
+Implemented on branch `worktree-coframe-jit-plan`; the README examples render as `nontechnical`, `comparison` and `bulk` in 0.8 to 2.0 s.
+These points differ from the plan below:
+
+- **Provider pinning.** OpenRouter's default provider for the model (Io Net) took 8 to 10 s on a tiny prompt; DeepInfra took 0.8 s and Darkbloom 1.2 s.
+  `analyze.ts` sends `provider.order: ["DeepInfra", "Darkbloom"]` and `reasoning.enabled: false`.
+- **Flagged IDs are trusted.** The model dropped flagged IDs in testing, so `validate` always puts flagged IDs first, then the model's picks, capped at 6.
+- **Reason text.** The model invented facts in `reason` ("all under $700"), so the prompt now forbids prices, counts and brand names there.
+- **Template map** lives in `app/src/templates/index.ts`, with small helpers in `shared.tsx`, instead of in `types.ts`.
+- **Shell key gotcha.** Next.js never overrides an env var the shell already exports.
+  If your shell exports an OpenAI `OPENAI_API_KEY`, start the app with `env -u OPENAI_API_KEY npm run dev` so `.env.local` wins.
+- **Known gap.** A nonsense `q` still gets generic `nontechnical` picks instead of `fallback`; the model rarely chooses `fallback`.
+
 ## Constraints to confirm
 
 Reply yes (or correct a line) before any code is written.

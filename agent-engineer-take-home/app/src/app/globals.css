@@ -304,3 +304,95 @@ h2 {
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   }
 }
+
+/* ── Templates ────────────────────────────────────────────────────────────── */
+
+.tpl-reason {
+  font-size: 14px;
+  color: #444;
+  margin: -12px 0 24px;
+}
+
+.tpl-badge {
+  display: inline-block;
+  background: #1a1a1a;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 999px;
+}
+
+.plain-link { color: inherit; text-decoration: none; }
+
+.picks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}
+
+.pick-card { position: relative; }
+.pick-card .price { font-size: 24px; }
+
+/* Overlay the image so the top pick card lines up with its neighbours. */
+.pick-card .tpl-badge {
+  position: absolute;
+  top: 28px;
+  left: 28px;
+}
+
+.pick-quote {
+  font-size: 13px;
+  font-style: italic;
+  color: #444;
+  line-height: 1.5;
+  margin-top: 6px;
+}
+
+.pick-highlights { margin: 6px 0 0; }
+
+.compare-scroll { overflow-x: auto; }
+
+.compare-table th,
+.bulk-table th {
+  text-align: left;
+  vertical-align: bottom;
+  padding: 12px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  background: #fafafa;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.compare-table th a,
+.bulk-table td a { color: #1a1a1a; text-decoration: none; }
+
+.compare-table td:first-child { width: 160px; }
+
+.compare-brand {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  color: #888;
+}
+
+.compare-table td { vertical-align: top; }
+
+.compare-table td.compare-best {
+  background: #e9f7ef;
+  font-weight: 600;
+  color: #1e7e45;
+}
+
+.compare-highlights { margin: 0; }
+.compare-highlights li { font-size: 12px; }
+
+.bulk-tier { margin-bottom: 12px; }
+
+.bulk-table td:first-child { background: #fff; font-weight: 500; color: #1a1a1a; width: auto; }
+.bulk-was { color: #999; text-decoration: line-through; }
+.bulk-total { font-weight: 700; }
+.bulk-ok { color: #27ae60; }
+.bulk-short { color: #c0392b; font-weight: 600; }
