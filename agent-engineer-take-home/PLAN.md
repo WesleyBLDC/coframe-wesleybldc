@@ -3,6 +3,19 @@
 One LLM call turns `q` (and optional `ids`) into a list of product IDs plus one of five fixed templates.
 The page renders that template server side, with a 3 second LLM cutoff that falls back to the normal catalog.
 
+## v2: parallel classifiers (built)
+
+The single catalog prompt is replaced by two classifiers that run in parallel and never see the catalog.
+`classifiers.ts` holds both prompts: a template classifier (note + flagged count to layout, quantity, reason) and an attribute extractor (note to filters).
+`match.ts` does the rest in code: fuzzy flagged ID matching, filtering by panel family and brand, ranking, and relaxing soft filters when nothing matches.
+Every layout except `fallback` ends with "Rest of the TV collection": every product not shown, ranked by fewest missed filters, then by the same sort.
+
+- **Free models only.** `LLM_MODELS` defaults to `nvidia/nemotron-3.5-lightning:free,nvidia/nemotron-3.5-super-vl:free`, tried in order on errors.
+- **Free quota.** On OpenRouter's daily or per-minute free-model 429, `llm.ts` pauses model calls until the reset and the keyword rules in `rules.ts` take over instantly.
+- **Cache.** Full LLM answers are cached in memory for an hour, keyed by `q` and the matched flagged IDs.
+- **Checks.** `npx tsx scripts/eval.ts` runs 21 deterministic checks; add `--llm` for the README queries; `scripts/quota-check.ts` checks quota handling against a mock server.
+- **Measured.** README pages render in 0.76 to 1.00 s with both classifiers answering from the model.
+
 ## Status and changes made during the build
 
 Implemented on branch `worktree-coframe-jit-plan`; the README examples render as `nontechnical`, `comparison` and `bulk` in 0.8 to 2.0 s.

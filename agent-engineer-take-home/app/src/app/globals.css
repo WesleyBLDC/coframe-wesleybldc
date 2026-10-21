@@ -553,3 +553,13 @@ h2 {
   .testbar-search { order: 3; flex-basis: 100%; }
   .testbar-status { width: auto; }
 }
+
+/* ── Rest of the collection ───────────────────────────────────────────────── */
+
+.rest-section {
+  margin-top: 48px;
+  padding-top: 28px;
+  border-top: 1px solid #e8e8e8;
+}
+
+.rest-title { margin-bottom: 16px; }
